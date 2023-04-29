@@ -1,0 +1,412 @@
+GUÍA DE PRIMEROS AUXILIOS
+Es importante que en todos los centros de trabajo se designe uno o más trabajadores para formarlos en primeros auxilios y que conozcan una serie de pautas o maniobras sobre qué hacer o qué no hacer ante situaciones de emergencia y hasta la llegada de personal sanitario especializado que pueda hacerse cargo de un accidentado o enfermo repentino.
+Asimismo, el artículo 20 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales indica la obligación de analizar las posibles situaciones de emergencia y de tomar las medidas necesarias en materia de primeros auxilios. En concreto obliga a:
+1.	Designación del personal en primeros auxilios.
+1.	Formación del personal designado.
+1.	Organizar las relaciones necesarias con servicios externos.
+ 
+PRIMEROS AUXILIOS
+·	Primeros auxilios: Definición, objetivos y consejos generales
+·	Fase de actuación: PAS
+·	Valoración del accidentado
+·	Soporte Vital Básico (SVB) y Reanimación Cardiopulmonar Básica (RCP Básica)
+·	Protocolo de actuación ante una parada cardiorrespiratoria
+·	Posición lateral de seguridad
+·	Protocolo de actuación ante una obstrucción de la vía aérea
+·	Heridas
+·	Hemorragias
+·	Amputaciones traumáticas
+·	Cuerpos extraños
+·	Picaduras y mordeduras
+·	Quemaduras
+·	Insolaciones
+·	Lipotimia
+·	Convulsiones
+·	Contusiones, esguinces y luxaciones
+·	Fracturas
+·	Fracturas de consideración importante
+·	Actuación ante intoxicaciones
+ 
+PRIMEROS AUXILIOS: DEFINICIÓN, OBJETIVOS Y CONSEJOS GENERALES
+Podemos definir los primeros auxilios como el conjunto de actuaciones y técnicas que permiten la atención inmediata de una persona accidentada, hasta que llega la asistencia médica profesional, a fin de que las lesiones que ha sufrido no empeoren. De esta actuación dependerá la evolución de la persona accidentada.
+Los objetivos son:
+·	Mantener vivo al accidentado.
+·	Evitar nuevas lesiones o complicaciones.
+·	Poner al accidentado lo antes posible en manos de servicios médicos.
+·	Aliviar el dolor.
+·	Evitar infecciones o lesiones secundarias.
+Siempre que se presten primeros auxilios hay que seguir unos consejos generales:
+·	Actuar con rapidez pero conservando la calma.
+·	Evitar aglomeraciones.
+·	Saber imponerse.
+·	No mover a la persona herida salvo que sea imprescindible.
+·	Traslado adecuado.
+·	No dar al herido de beber, comer o medicar.
+·	Tranquilizar al herido.
+·	Mantener al herido caliente.
+·	Hacer solo lo imprescindible.
+·	Si no se sabe, abstenerse.
+·	¡ATENCIÓN!. El Socorrista también debe protegerse (guantes, protectores en el boca a boca…).
+Subir
+ 
+FASES DE ACTUACIÓN: "P A S"
+PROTEGER EL LUGAR DE LOS HECHOS
+Protección del accidentado y del socorrista. Es preferible alejar el peligro que movilizar al accidentado. Hay que hacer seguro el lugar de la emergencia (señalizar, retirar peligros, iluminar…):
+·	Fugas de gas: cortar el gas, no encender fuego, no fumar.
+·	Coche: quitar contacto, aparcar bien, señalizarlo.
+·	Electricidad: desconectar la corriente antes de tocar al accidentado.
+ 
+AVISAR A LOS SERVICIOS DE SOCORRO: 112
+Informar correctamente sobre:
+·	Lugar exacto.
+·	Tipo de accidente.
+·	Número de heridos y situación.
+·	Identificarse (las llamadas anónimas no inspiran confianza).
+·	Colgar en último lugar.
+ 
+SOCORRER: APLICAR LOS CONOCIMIENTOS
+·	Actuar rápidamente pero con calma.
+·	Actuar siguiendo un orden de prioridades:
+1.	Salvar la vida.
+1.	Evitar que se agraven las lesiones.
+·	Realizar maniobras sencillas encaminadas a evitar lesiones (no somos médicos).
+·	Como norma general no inmovilizar al accidentado. Si hubiera que hacerlo, moverlo en bloque.
+·	Organizar: alejar a los curiosos, dar instrucciones.
+Subir
+ 
+VALORACIÓN DEL ACCIDENTADO
+En la Valoración inicial de un accidentado nos debemos marcar como objetivo prioritario el reconocimiento de lesiones o situaciones que sean potencialmente peligrosas para la vida del paciente; así mismo, hay que tener muy claro que las maniobras a realizar, se deben practicar en el lugar del accidente, salvo que concurran situaciones potencialmente peligrosas tanto para el herido como para el rescatador; como son la presencia de humos, gases, sustancias explosivas, riesgos de derrumbamiento, etc. En dichas situaciones se practicarán rescates de emergencia previos a la valoración del paciente.
+Valoración del accidentado:
+·	Evaluación Primaria: Se debe valorar el estado de conciencia (comprobar si responde), y valorar la respiración (oír, ver y sentir la respiración).
+·	Evaluación Secundaria: Consiste en una exploración complementaria del paciente, para detectar otras lesiones: hemorragias, heridas, quemaduras, fracturas, etc., y aplicarles primeros auxilios hasta la llegada de los servicios médicos pertinentes.
+Subir
+ 
+SOPORTE VITAL BÁSICO (SVB) Y REANIMACIÓN CARDIOPULMONAR BÁSICA (RCP BÁSICA)
+En ocasiones, por diversas causas, la respiración y la circulación de una persona se interrumpen de forma brusca, inesperada y potencialmente reversible. Esa interrupción se conoce con el nombre de parada cardiorrespiratoria (PCR). Si esta situación se prolonga durante algunos minutos, la persona que la sufre muere, porque sus células dejan de recibir oxígeno y alimento. El cerebro no resiste esta situación más de 4 o 5 minuto, por este motivo es importante actuar de forma inmediata.
+Las maniobras de RCP básica tratan de sustituir la falta de respiración, ejecutando la ventilación artificial mediante la técnica conocida como "ventilación boca a boca", y la falta de latido cardíaco, ejecutando compresiones torácicas, es decir mediante el "masaje cardíaco".
+La RCP básica la puede ejecutar cualquier persona entrenada sin necesidad de dispositivos especiales.
+El SVB es el conjunto de actuaciones que puede ejecutar cualquier persona sin requerimientos especiales y que pretende: prevenir situaciones que puedan desencadenar una PCR o cualquier otra emergencia, conocer el sistema de emergencias y cómo activarlo de forma adecuada, y ejecutar de las propias técnicas de RCP.
+Ante una posible emergencia se debe seguir una secuencia de actuación que se conoce como algoritmo de soporte vital básico.
+Subir
+ 
+PROTOCOLO DE ACTUACIÓN ANTE UNA PARADA CARDIORRESPIRATORIA
+En primer lugar se deben evitar peligros tanto para el herido como para el reanimador (Proteger).
+A continuación valoraremos su estado de consciencia.
+1.	VALORAR SU ESTADO DE CONCIENCIAArrodillado a la altura de los hombros de la persona accidentada, preguntarle que le ocurre y sacudirle ligeramente.Si la persona está consciente seguir pasos de la evaluación primaria y secundaria.Si la persona no responde, es decir, está inconsciente, se debe pedir ayuda de forma inmediata. Debe gritar pidiendo ayuda. Haga que alguien telefoneé al 112 e indique su situación y lo que está ocurriendo. 
+1.	ABRIR LA VÍA AÉREA Y VALORAR RESPIRACIÓNAnte una persona inconsciente de la que sospechemos haya podido sufrir un parada cardiorrespiratoria, lo ideal es colocarla en el suelo (plano duro y horizontal), tumbada boca arriba (decúbito supino) con los brazos estirados a lo largo del cuerpo. Si la víctima es una mujer embarazada, le colocaremos en la parte derecha de su espalda algún objeto (toalla, cojín, etc.), de manera que quede algo inclinada hacia la izquierda, con el objetivo de desplazar su útero para que no dificulte el retorno de la sangre por las venas que llegan al corazón cuando se está haciendo la RCP.Aflojar todas las ropas que puedan oprimirle y desvestir el tórax.Tras gritar pidiendo ayuda, y haber colocado con cuidado a la víctima en posición de RCP, se debe abrir la vía aérea.Es muy importante que el camino que debe seguir el aire desde el exterior hasta los pulmones esté despejado. Cuando una persona pierde el conocimiento, lo más probable es que su lengua "caiga" hacia atrás y obstruya el paso hasta los pulmones.Es necesario, por tanto, realizar una maniobra de extensión del cuello inclinando hacia atrás, lo más posible, la cabeza del paciente. De esta forma la lengua se eleva y deja libre el paso del aire. La maniobra, conocida como maniobra frente-mentón, se realiza colocando una mano en la frente de la víctima y dos dedos de la otra mano en su barbilla, y procediendo entonces a practicar una extensión máxima del cuello tirando con cuidado de la cabeza hacia atrás.Además de la lengua, otros obstáculos pueden impedir el paso de aire. Debemos mirar dentro de la boca y extraer restos de comida, dentaduras postizas, etc., y si son visibles extraer con dedos en "gancho". Debido a que la parada cardiorrespiratoria por atragantamiento es rara, no es necesario mirar la boca de forma rutinaria cuando se hace una RCP. Se mirará si tras iniciar la ventilación, ésta no es efectiva.Una vez abierta la vía aérea debemos comprobar si el paciente respira o no. En ocasiones es obvio (el paciente habla o se aprecian movimientos respiratorios). En cualquier caso, lo correcto es acercar nuestra oreja y nuestra mejilla a la boca y nariz del accidentado para "SENTIR Y ESCUCHAR" su respiración. A la vez nuestra mirada debe dirigirse al tórax del paciente para VER si existen movimientos respiratorios. No deben emplearse más de 10 segundos.Si la víctima respira (a veces, la simple maniobra de apertura de vías es suficiente para recuperar la respiración espontánea,  por ejemplo tras una sofocación), continuar la evaluación primaria y secundaria y, si sus lesiones no lo impiden colocarlo en posición lateral de seguridad hasta la llegada del personal especializado, enviar o pedir ayuda de nuevo, y revalorar periódicamente comprobando que la víctima continúa respirando con normalidad. 
+1.	Si el paciente no respira: CONSEGUIR AYUDA, el reanimador debe llamar al 112 si está solo o enviar a alguien. Se debe indicar que se va a iniciar la maniobra de RCP.CIRCULACIÓN: Según las normas ILCOR 2005, el socorrista lego (ciudadano no sanitario) no deberá buscar indicios de circulación, simplemente comenzar la maniobra de masaje cardíaco junto a la de respiración artificial. 
+1.	INICIAR RCPEn el momento de detectar una ausencia respiratoria deben iniciarse maniobras de resucitación.Lo primero que debe hacer el reanimador es dar 30 compresiones torácicas, mediante lo que se denomina como masaje cardíaco:
+1.	Recordar que la víctima debe estar sobre un plano duro.
+1.	Colocarse de rodillas a un lado de la víctima, a la altura de sus hombros.
+1.	Se sitúa el talón de la mano en el centro del pecho (donde se encuentra el punto donde se cruzarían dos líneas imaginarias que fueran, una de ellas de mamila a mamila y, otra, de nariz a ombligo), y el talón de la otra mano sobre la primera. Entrelazar los dedos y asegurarse de no aplicar presión sobre las costillas, parte superior del abdomen o parte final del esternón.
+1.	Colocar verticalmente sobre el pecho de la víctima, y con los brazos rectos, comprimir el esternón de 4 a 5 centímetros. Tras cada compresión, se debe liberar la presión sobre el pecho sin que las manos dejen de contactar con él y repetir las compresiones a un ritmo de 100 por minuto.  Para no perder la cuenta es recomendable contar en voz alta de cinco en cinco compresiones o a partir de la nº 25.Tras comenzar el masaje cardíaco, el reanimador debe combinar las 30 compresiones con 2 ventilaciones de rescate.Para ello, ha de abrir de nuevo la vía aérea (maniobra frente-mentón) y pinzar la nariz con los dedos índice y pulgar de la mano colocada sobre la frente del paciente, tomar una inspiración normal (Vol. Unos 500 cc.) e insuflar firmemente el aire en la boca de la víctima durante 1 seg., comprobando que el pecho se eleva. Esta técnica de respiración artificial se conoce como ventilación boca a boca. Retirar la boca de la víctima y, manteniendo la vía aérea abierta, comprobar que el pecho desciende conforme sale el aire insuflado.En este caso, respiración boca a boca o sus variantes (boca a nariz sí la boca está lesionada o existía dentadura postiza; o boca a estoma en personas laringectomizados), insuflando aire directamente sobre el paciente.Repetir la maniobra para aplicar, así, 2 ventilaciones de rescate efectivas.Hecho esto y sin retraso, el reanimador debe colocar sus manos en el centro del pecho y dar 30 compresiones torácicas. Debe proseguir, ininterrumpidamente, combinando compresiones torácicas y ventilaciones de rescate a un ritmo de 30:2.Si la primera ventilación de rescate no consigue elevar el pecho, antes del siguiente intento se debe revisar la boca de la víctima, y sacar de ella cualquier cuerpo extraño, así como confirmar que la maniobra se está ejecutando correctamente.Cuando la víctima es atendida por más de un reanimador, el masaje y la ventilación deben ser realizados por uno de ellos exclusivamente, que será sustituido por el otro, para evitar cansancio, aproximadamente cada 2 minutos. Este cambio se debe realizar sin interrumpir las maniobras (el primer reanimador está realizando su último ciclo de 2 ventilaciones, el segundo reanimador se coloca al lado de la víctima par aplicar las compresiones en cuanto se haya ejecutado la segunda insuflación de aire).La RCP debe realizarse de forma continua hasta que: llegue la ayuda cualificada y se haga cargo de la situación, la víctima comience a respirar con normalidad, o el reanimador llegue a estar agotado.
+Subir
+ 
+POSICIÓN LATERAL DE SEGURIDAD
+·	Apartar el brazo que está entre el socorrista y el herido y ponerlo cerca de la cabeza.
+·	Flexionamos la pierna más lejana del herido y acercamos la mano a la rodilla de dicha pierna sin estirarle el brazo, sino llevando la rodilla hacia el brazo.
+·	Haciendo fuerza, hacemos girar al herido desde la rodilla y el hombro hasta que descanse sobre la rodilla flexionada, recogemos el brazo que gira externamente para darle dos puntos de soporte (rodilla y brazo).
+·	Rectificar la posición de la cabeza para mantener la vía aérea abierta.
+·	Le abrimos la boca para facilitar el vómito y escuchamos si se mantiene  la respiración.
+
+Subir
+ 
+PROTOCOLO DE ACTUACIÓN ANTE UNA OBSTRUCCIÓN DE VÍA AÉREA.
+La obstrucción de las vías respiratorias superiores es una situación de urgencia que puede ser vital si no se practican de forma inmediata las maniobras necesarias para dejar libres dichas vías.
+La vía respiratoria superior comprende el tramo que va desde la cavidad bucal y las fosas nasales, pasando por la faringe laringe y tráquea.
+Las causas más frecuentes de obstrucción de la vía aérea se pueden resumir en dos grandes grupos:
+·	En personas conscientes:
+·	La aspiración de alimentos (atragantamiento) por descoordinación entre la deglución y la respiración en un momento determinado.
+·	El paso hacia las vías respiratorias de objetos o cuerpos extraños del interior de la boca como prótesis dentales, coágulos de sangre, vómito.
+·	En personas inconscientes:
+·	La causa más frecuente de obstrucción, es la caída de la lengua hacia atrás, ocluyendo la faringe.
+La obstrucción de la vía aérea puede ser completa o incompleta.
+Hemos de comprobar la dificultad al paso del aire que presenta la persona accidentada, y una vez determinada la situación por la ausencia de movimientos respiratorios o excesivos esfuerzos para respirar procederemos a aplicar las siguientes maniobras:
+·	En personas conscientes:
+·	Si la obstrucción no es completa le animaremos a toser de forma enérgica para que expulse el cuerpo extraño.
+·	Si la víctima ya no puede toser más, se le deben dar  5 golpes en la espalda, entre los omóplatos (las "paletillas"), de forma vigorosa, seca y seguida, comprobando con cada uno de ellos si se resuelve o no el atragantamiento. Para ello, el reanimador tiene que colocar a la víctima, estando en pie, con el tronco ligeramente inclinado hacia delante, sujetando el pecho con una mano, y con el talón de la otra se aplican los 5 golpes interescapulares.
+·	Si a pesar de los 5 golpes en la espalda la víctima continua atragantada, es preciso aplicar compresiones abdominales, haciendo lo que se denomina maniobra de Heimlich, que consiste en colocarnos por detrás del paciente, abrazarle de atrás a delante y cruzaremos las manos en la "boca del estómago", dejando flexionar ligeramente al paciente. De forma vigorosa aplicaremos 5 compresiones, de delante atrás y de abajo arriba. Si la víctima es muy obesa o está embarazada, las compresiones se efectuarán a nivel del pecho.En caso de que las compresiones tampoco resuelvan el atragantamiento, debemos alternar golpes en la espalda y compresiones abdominales, hasta que el problema se resuelva o la víctima pierda el conocimiento y muestre signos de que se derrumba y cae al suelo.
+·	En personas inconscientes:
+·	Si el atragantamiento es prolongado y provoca la pérdida de conocimiento, el reanimador tiene que: tender a la víctima en el suelo con cuidado, activar si no se ha hecho hasta ahora el sistema de emergencias, realizar la apertura de la vía aérea (maniobra frente-mentón) y observar dentro de la boca si el objeto causante del atragantamiento es visible y accesible. Si es así realizar un barrido digital, es decir, con los dedos se procede a retirar el objeto causante del atragantamiento.
+·	Comenzar con la RCP, masaje y ventilaciones, a una relación de 30:2, preferentemente con la cabeza ladeada mientras se hacen las compresiones, por si el objeto subiera a la boca.
+Subir
+ 
+HERIDAS
+Una herida es la pérdida de continuidad de la piel o de las mucosas a consecuencia de un traumatismo, provocanto la comunicación del interior con el exterior del cuerpo.
+Actuación:
+1.	Lavarse las manos.
+1.	Colocarse unos guantes.
+1.	Limpiar la herida con agua y jabón.
+1.	Secar la herida con gasa desde el centro hacia la periferia de. la misma
+1.	Desinfectar la herida con un antiséptico.
+1.	Cubrirla con gasa y esparadrapo.
+1.	Retirar guantes y lavarse las manos.
+1.	Advertir sobre la vacunación antitetánica.
+1.	Solicitar valoración sanitaria ante heridas profundas y vacunación antitetánica.
+Qué no debo hacer:
+·	Emplear algodón, pomadas, polvos, etc., sobre la herida.
+·	Manipulaciones innecesarias de la herida.
+·	Limpiar la herida con manos, trapos, pañuelos, etc., sucios.
+Subir
+HEMORRAGIAS
+Podemos definir hemorragia como la salida de sangre de los vasos sanguíneos como consecuencia de la rotura de los mismos.
+Actuación:
+·	Lavarse las manos.
+·	Colocarse los guantes.
+·	Detener la hemorragia: Si es abundante pedir ayuda al 112:
+1ª Opción: COMPRESIÓN DIRECTA DEL PUNTO SANGRANTE.
+·	Comprimir directamente la zona que sangra, con gasas o pañuelos limpios.
+·	Mantener la compresión entre 5 y 10 minutos, sin retirar nunca el apósito.
+·	Si sigue sangrando, añadir más gasas.
+·	Mantener siempre el miembro elevado.
+·	Sujetar las gasas con vendaje compresivo.
+2ª Opción: COMPRESIÓN DE LA ARTERIA SOBRE EL HUESO SUBYACENTE.
+·	Si a pesar de lo anterior, persiste la hemorragia, realizar compresión directa sobre la arteria correspondiente a la zona del sangrado y siempre por encima de la misma, con:
+·	a) Si la hemorragia es en el brazo: Compresión con la yema de los dedos sobre la arteria humeral.
+·	b) Si la hemorragia es en la pierna: Compresión con el talón de la mano sobre la arteria femoral.
+Qué no hacer:
+·	Quitar gasas empapadas.
+·	Se deben evitar los torniquetes, pues al evitar completamente el paso de sangre se dañan también zonas sanas.
+Hemorragia interna. Síntomas del shock:
+·	Consciente ó no.
+·	Palidez.
+·	Sudoración fría.
+·	Extremidades frías.
+·	Labios azulados.
+·	Pulso débil y acelerado.
+·	Respiración superficial y acelerada.
+Avisar al 112 y tumbar con la cabeza más baja que las piernas (posición de trendelenburg: con las piernas más altas que el resto del cuerpo).
+Hemorragia nasal o epistaxis:
+·	Comprimir ligeramente la aleta nasal del lado sangrante hacia el tabique nasal durante 10 minutos, si no cesa continuar otros 10 minutos.
+·	Si continúa, coloque una gasa o algodón empapado en agua oxigenada en la fosa nasal que sangra introduciéndola poco a poco.
+·	Aplique frío local en el lado sangrante.
+·	Si la hemorragia dura mas de 30 minutos acudir al centro médico más cercano.
+Subir
+AMPUTACIONES TRAUMÁTICAS
+·	Actuaciones sobre la extremidad afectada:
+·	Seguir el protocolo de actuación ante hemorragias. El muñón debe comprimirse como se ha indicado anteriormente y luego vendarse de forma enérgica. Si con esto no cede la hemorragia, se coloca un torniquete (Con una venda ancha dar dos vueltas y en la parte superior colocar un bolígrafo, palo, etc., y sujetarlo con la misma venda) , que se mantendrá unos 10 minutos. Luego se retira y no se vuelve a colocar un torniquete si no reaparece el sangrado. La víctima debe ser trasladada lo antes posible a un centro sanitario.
+·	Mantener el miembro elevado.
+·	Actuaciones sobre el miembro amputado.
+1.	Envolver el miembro con gasas estériles.
+1.	Introducirlo en una primera bolsa y cerrarla.
+1.	Introducir la bolsa anterior en una segunda bolsa que contenga hielo y un poco de agua.
+·	Trasladar al herido y el miembro amputado de forma urgente a un centro hospitalario.
+Subir
+ 
+CUERPOS EXTRAÑOS
+EN LOS OJOS
+Actuación:
+·	Lavarse las manos.
+·	Colocarse los guantes.
+·	Localizar el cuerpo extraño y extraerlo con ayuda de una gasa estéril o a través de lavados abundantes con suero fisiológico o, en su defecto, agua.
+·	Cubrir el ojo con gasa estéril y enviar a un centro sanitario.
+·	Si no localizamos el cuerpo extraño, lavarlo y luego proceder como en el punto anterior.
+Qué no hacer:
+·	Frotar el ojo.
+·	Usar objetos punzantes para extraer el cuerpo extraño.
+·	Realizar manipulaciones innecesarias.
+·	Manipular el ojo para extraer un cuerpo extraño que está clavado en el globo ocular.
+EN LA NARIZ Y EN LOS OÍDOS
+No tocarlos y acudir a un centro sanitario.
+Subir
+ 
+PICADURAS Y MORDEDURAS
+Actuación :
+1.	Extraer el aguijón, si existiese, con ayuda de unas pinzas.
+1.	Limpiar la herida con agua y jabón.
+1.	Aplicar una gasa empapada en agua fría o hielo.
+1.	Traslado a un centro sanitario.
+1.	Si es posible, capturar al animal para descartar rabia.
+Qué no hacer:
+·	Realizar incisiones.
+·	Chupar el veneno.
+·	Aplicar barro, saliva, pasta de dientes u otros remedios caseros.
+·	Rascarse.
+Subir
+ 
+QUEMADURAS
+QUEMADURAS TÉRMICAS ( POR CALOR O LLAMA)
+Actuación:
+·	Lavarse las manos.
+·	Colocarse los guantes.
+·	Retirar relojes, pulseras, anillos, etc.
+·	Exponer la zona quemada bajo el chorro de agua fría durante 10 minutos (de reloj).
+·	Cubrir la zona con gasas estériles, a ser posible empapadas con suero fisiológico o agua.
+·	Elevar la zona afectada.
+·	En grandes quemados, cubrirlos con mantas.
+·	Acudir a un centro sanitario.
+Qué no hacer:
+·	Aplicar pomadas. Aplicar remedios caseros.
+·	Utilizar hielo o agua helada.
+·	Romper ampollas.
+·	Utilizar antisépticos con colorantes.
+·	Correr en caso de que el cuerpo esté en llamas.
+·	Arrancar la ropa pegada al cuerpo por la quemadura.
+QUEMADURAS QUÍMICAS (POR PRODUCTOS QUÍMICOS)
+·	Quitar la ropa de la zona afectada.
+·	Lavar abundantemente con agua (ducha de cuerpo entero, ducha lavaojos, grifo de lavabo, etc. según cada caso), al menos durante 20 ó 30 minutos.
+·	Acudir a un centro sanitario.
+QUEMADURAS ELÉCTRICAS
+1.	Cortar la corriente eléctrica.
+1.	Aislarse al rescatar al herido:
+·	Apartarlo de la corriente eléctrica con ayuda de una pértiga de material aislante (por ejemplo el palo de madera de una escoba).
+·	Subirse sobre algo aislante (silla de madera, caja de plástico de refrescos, etc.) para rescatar al accidentado.
+1.	Avisar a los servicios sanitarios.
+1.	Valorar a la persona accidentada y socorrerla:
+·	Reanimación cardio-pulmonar si fuera necesario, en lugar seguro.
+·	Al valorar al herido, tener en cuenta que puede sufrir otras posibles lesiones y actuar en consecuencia.
+Subir
+ 
+CONGELACIONES
+·	Calentamiento moderado con agua de la zona afectada.
+·	Aflojar ropas.
+·	No frotar la zona con nada.
+·	Acudir a un centro sanitario.
+Subir
+ 
+INSOLACIONES
+1.	Apartar a la víctima de la fuente de calor, situándolo en una habitación o lugar fresco y con poca luz.
+1.	Aflojar ropas.
+1.	Aplicar compresas de agua fría.
+1.	Si está consciente, dar de beber líquidos frescos.
+1.	Consultar con los servicios sanitarios.
+Subir
+LIPOTIMIA
+Déficit transitorio del riego sanguíneo cerebral. Los síntomas son mareo, sudoración, pesadez, debilidad en piernas y pérdida de conocimiento de forma breve.
+Actuación:
+·	A) Ante los primeros síntomas:
+·	Sentarlo con la cabeza entre los muslos o tumbado con los miembros inferiores elevados.
+·	Aflojarle la ropa.
+·	Airear el lugar y evitar curiosos.
+·	B) Ante pérdida de conocimiento:
+·	P.A.S.
+·	Tumbarlo con los miembros inferiores elevados.
+·	Colocarlo en posición lateral de seguridad (PLS).
+·	Proteger tanto del frío como del calor.
+·	Vigilar constantemente al herido: respiración, pulso.
+·	Avisar a los servicios sanitarios.
+Qué no hacer:
+·	Dar de beber o comer al herido.
+Subir
+ 
+CONVULSIONES
+Suelen darse en pacientes epilépticos. La epilepsia es una enfermedad neurológica producida por una lesión cerebral y que puede provocar crisis convulsivas potentes llamadas "ataques o crisis epilépticas". Los signos y síntomas que presenta son: caída al suelo con pérdida de conciencia, ojos cerrados o entreabiertos y en blanco, boca cerrada, encajada, convulsiones (movimientos repetitivos e involuntarios) y en ocasión relajación de esfínteres.
+La actuación a seguir en estos casos es:
+·	Durante las convulsiones:
+·	Pedir ayuda.
+·	Retirar los objetos de alrededor que puedan dañar a la víctima.
+·	Aflojar la ropa que pueda comprimirle.
+·	Evitar que se lastime sujetando a la persona sin violencia. Proteger la cabeza.
+·	No intentar abrir la boca.
+·	Gire de lado a la víctima si presenta vómito.
+·	Cuando cese la crisis:
+·	Colocar al paciente en posición lateral de seguridad.
+·	Esperar hasta que llegue la asistencia sanitaria.
+Qué no hacer:
+·	Taponar la boca.
+·	Si tiene la boca cerrada, intentar colocarle un objeto entre sus dientes.
+Subir
+ 
+CONTUSIONES, ESGUINCES Y LUXACIONES
+CONTUSIÓN
+Es una lesión por impacto de un objeto en el cuerpo, que no produce la pérdida de continuidad de la piel, pero puede producir lesión por debajo de ella y afectar a otras estructuras. Según la intensidad del impacto puede aparecer hematoma, edema y aplastamiento intenso de partes blandas.
+Actuación:
+·	Aplicar frío local sin contacto directo con la piel (envuelto en un paño).
+·	Elevación del miembro si se trata de una extremidad.
+·	En aplastamientos intensos debe inmovilizarse la zona afectada, como si se tratara de una lesión ósea.
+ESGUINCE
+Separación momentánea de las superficies articulares que produce una distensión (o rotura) de los ligamentos. Síntomas: dolor, inflamación, impotencia funcional.
+Actuación:
+·	En las primeras 36-48 horas aplicar frío en la zona, en forma de bolsas frías o compresas.
+·	Reposo de la articulación mediante inmovilización.
+·	Elevación de la zona lesionada. El brazo en cabestrillo y la pierna horizontal.
+·	Derivar a centro sanitario.
+LUXACIÓN
+Es la separación mantenida de las superficies articulares. Se produce por una flexión o extensión más allá de los límites normales o bien por un golpe directo en la articulación. A diferencia del esguince, las superficies articulares quedan separadas y acompañándose de desgarro o rotura de ligamentos. Se manifiesta por dolor muy intenso, hinchazón, pérdida de fuerza y deformidad de la articulación.
+Actuación:
+·	Aplicar frío local.
+·	Dejar la articulación tal y como se encuentre sin intentar corregir la deformidad.
+·	Inmovilizar.
+·	Evacuar a centro sanitario.
+Qué no hacer en caso de contusiones, esguinces y luxaciones:
+·	Movilizar la zona o articulación dañada.
+·	Intentar corregir la deformidad.
+·	Aplicar pomadas o analgésicos.
+Subir
+ 
+FRACTURAS
+Definimos fractura como la pérdida de la continuidad de un hueso (desde simple fisura a rotura total). Pueden ser: cerradas, no producen herida en la piel, o abiertas, el hueso sale al exterior produciendo herida en la piel, por lo que existe peligro de infección.
+Síntomas: dolor intenso, deformidad, desdibujo, acortamiento, inflamación y tumefacción, impotencia funcional acusada, oyó crujido.
+Actuación:
+·	No movilizar, a menos que sea necesario.
+·	No reducir la fractura, es decir, no intentar introducir fragmentos óseos que sobresalgan de la piel.
+·	Retirar objetos que puedan oprimir debido a la inflamación de la zona afectada (anillos, pulseras...).
+·	En fracturas cerradas aplicar frío local, protegiendo la piel (hielo envuelto en un paño).
+·	Si hay que mover o trasladar a la persona accidentada, inmovilizar sin reducir la zona fracturada, incluyendo articulaciones adyacentes.
+·	No realizar movimientos bruscos.
+·	Si es una fractura abierta, cubrir la herida con apósitos estériles ó limpios antes de inmovilizar.
+·	Pedir ayuda al 112 y traslado a centro sanitario.
+Para inmovilizar una fractura se deben seguir las siguientes recomendaciones:
+·	Inmovilizar con material rígido (férulas) o bien con aquel material que una vez colocado haga la misma función que el rígido (pañuelos triangulares).
+·	Almohadillar las férulas que se improvisen (maderas, troncos...).
+·	Inmovilizar una articulación por encima y otra por debajo del punto de fractura:
+·	Antebrazo: desde raíz de los dedos a axila, codo a 90° y muñeca en extensión.
+·	Muñeca: desde raíz de los dedos a codo, muñeca en extensión.
+·	Dedos mano: desde punta de los dedos a muñeca, dedos en semiflexión.
+·	Fémur y pelvis: desde raíz de los dedos a costillas, cadera y rodillas en extensión; tobillo a 90°.
+·	Tibia y peroné: desde raíz de los dedos a ingle, rodilla en extensión, tobillo a 90°.
+·	Tobillo y pie: desde raíz de los dedos a rodilla, tobillo a 90°.
+·	Inmovilizar en posición funcional (si se puede) y con los dedos visibles.
+·	Nunca reducir una fractura (no poner el hueso en su sitio).
+·	Evacuar siempre a un centro hospitalario.
+
+Qué no hacer:
+·	Realizar movimientos innecesarios.
+·	Aplicar calor.
+·	Dar pomadas, analgésicos, antiinflamatorios, etc., ya que pueden enmascarar síntomas.
+·	Intentar reducir fracturas o luxaciones.
+Subir
+ 
+FRACTURAS DE CONSIDERACIÓN IMPORTANTE
+A) FRACTURAS DE CRÁNEO
+·	Se sospechará ante la observación de hemorragia nasal u ótica o salida de líquido transparente (líquido cefalorraquídeo).
+B) FRACTURAS DE COLUMNA VERTEBRAL
+·	Se sospechará si la persona no puede mover alguna extremidad.
+Actuaciones en ambas situaciones:
+·	No tocar al accidentado, indicando a la persona que debe permanecer inmóvil. No permitir que flexione o gire el cuello. No flexionar nunca al herido.
+·	Avisar a los servicios sanitarios, para ser trasladado en condiciones adecuadas. Mover siempre en bloque y en plano duro por más de una persona.
+·	Permanecer a su lado, controlando consciencia, respiración y pulso.
+Subir
+ 
+ACTUACIÓN ANTE INTOXICACIONES
+Ante la sospecha de intoxicación es de vital importancia conocer el producto causante. A la persona afectada y a los compañeros, preguntarles:
+·	¿Qué producto se ha manejado y en que cantidad?
+·	¿Cuándo y durante cuanto tiempo se ha manejado?
+·	¿Qué EPIs y ropa de trabajo se han empleado?
+·	¿Qué tipo de síntomas se han observado?
+·	¿Había tomado alcohol o alguna medicina?
+INGESTIÓN
+·	Conocer el producto causante.
+·	Llamar al Instituto Nacional de Toxicología: 91 562 04 20.
+·	Avisar al 112 y trasladarle a un hospital.
+·	No provocar el vómito en caso de ingestión de sustancias cáusticas., o en caso de que el herido esté inconsciente.
+·	En casos excepcionales y si el paciente está consciente: administrar agua albuminosa (seis claras de huevo disuelto en un litro de agua). Dar a cucharadas, como máximo 1/2 litro.
+SALPICADURAS
+·	Retirar toda la ropa y joyas.
+·	Lavado exhaustivo con agua.
+SALPICADURA EN OJO
+·	Lavado con agua, al menos 20 minutos, del ojo afectado.
+INTOXICACIÓN POR INHALACIÓN
+1.	Protegerse/Avisar:
+·	Evitar actuar solo.
+·	Usar mascarillas adecuadas.
+·	Si es necesario utilizar equipos autónomos.
+·	Utilizar un trapo húmedo, sujetarse con una cuerda…
+·	Valorar la causa de intoxicación: gases pesados y no pesados, plaguicidas, etc.
+·	Avisar al Instituto Nacional de Toxicología y al 112.
+1.	Socorrer:
+·	Retirar al accidentado del ambiente tóxico.
+·	Valorar nivel de conciencia y respiración, si es necesario realizar RCP.
+·	Administrar oxígeno.
+·	Trasladar a un centro hospitalario.
+
