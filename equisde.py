@@ -20,5 +20,5 @@ def mostrar_numeros_emergencia():
         contenido = archivo.read()
     return render_template("Emergencia.html", contenido=contenido)
 
-if __name__ == "__main__":
+if __name__ == "__equisde__":
     app.run(debug=True)
